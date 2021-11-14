@@ -1,0 +1,97 @@
+.searchDropDown{
+   
+  margin-left: 200px;
+  width: 600px;
+  margin-top: 30px;
+ 
+}
+.errorValidaiton{
+  color: red;
+  margin-left: 200px;
+}
+.bi-search::before{
+margin-left: 20px;
+}
+.header{
+  height: 40px;
+  background-color:#2a094b;
+  color: white;
+  padding-left: 30px;
+  padding-top: 8px;
+}
+.appendBtn{
+  cursor: pointer;
+}
+.cardDay{
+  display: inline;
+  height: 120px;
+  width: 120px;
+  margin: 0px;
+  /* border: 1px solid rgb(167, 159, 159); */
+  cursor: pointer;
+  text-align: center;
+}
+.cardDayWithborder{
+  display: inline;
+  height: 120px;
+  width: 120px;
+  margin: 0px;
+  border: 1px solid rgb(167, 159, 159);
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+.foreCastRow{
+  margin-left: 200px;
+}
+.foreCastDaysRow{
+  margin-left: 200px;
+}
+.foreCastSubTitleinfo{
+  margin-left: 200px;
+}
+.cityTitle{
+
+  font-weight: bold;
+}
+.daystatus{
+  
+}
+.weatherStatus{
+  margin-top: -20px;
+ 
+;
+}
+.weathericonTemp{
+ margin-left: 20px;
+ font-weight: bold;
+ font-size: 30px;
+}
+.degreeTemp{
+  font-weight: normal;
+  font-size: 18px;
+}
+.preHumspeedInfo{
+  margin-top: -20px;
+  ;
+}
+.errorRespone{
+  color: red;
+  margin-left: 200px;
+}
+
+.convertDegreetofarhant{
+  cursor: pointer;
+  
+ 
+}
+.celiusDegree{
+  cursor: pointer;
+}
+.farhentDegree{
+  cursor: pointer;
+}
+.Loader{
+  margin-left: 200px;
+}
+
