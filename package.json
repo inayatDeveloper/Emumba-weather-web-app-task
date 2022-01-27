@@ -1,4 +1,5 @@
 {
+  "homepage": "https://inayatDeveloper.github.io/Emumba-weather-web-app-task",
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,7 @@
     "@types/react-dom": "^17.0.11",
     "axios": "^0.24.0",
     "env-cmd": "^10.1.0",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.6",
@@ -20,6 +22,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "env-cmd react-scripts start",
     "build": "env-cmd react-scripts build",
     "test": "react-scripts test",
