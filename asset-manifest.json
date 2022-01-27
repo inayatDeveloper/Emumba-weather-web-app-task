@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Emumba-weather-web-app-task/static/css/main.1ddc6e86.chunk.css",
+    "main.js": "/Emumba-weather-web-app-task/static/js/main.6c86bddc.chunk.js",
+    "main.js.map": "/Emumba-weather-web-app-task/static/js/main.6c86bddc.chunk.js.map",
+    "runtime-main.js": "/Emumba-weather-web-app-task/static/js/runtime-main.de60286c.js",
+    "runtime-main.js.map": "/Emumba-weather-web-app-task/static/js/runtime-main.de60286c.js.map",
+    "static/js/2.2b3e08de.chunk.js": "/Emumba-weather-web-app-task/static/js/2.2b3e08de.chunk.js",
+    "static/js/2.2b3e08de.chunk.js.map": "/Emumba-weather-web-app-task/static/js/2.2b3e08de.chunk.js.map",
+    "static/js/3.67450965.chunk.js": "/Emumba-weather-web-app-task/static/js/3.67450965.chunk.js",
+    "static/js/3.67450965.chunk.js.map": "/Emumba-weather-web-app-task/static/js/3.67450965.chunk.js.map",
+    "index.html": "/Emumba-weather-web-app-task/index.html",
+    "static/css/main.1ddc6e86.chunk.css.map": "/Emumba-weather-web-app-task/static/css/main.1ddc6e86.chunk.css.map",
+    "static/js/2.2b3e08de.chunk.js.LICENSE.txt": "/Emumba-weather-web-app-task/static/js/2.2b3e08de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de60286c.js",
+    "static/js/2.2b3e08de.chunk.js",
+    "static/css/main.1ddc6e86.chunk.css",
+    "static/js/main.6c86bddc.chunk.js"
+  ]
+}
